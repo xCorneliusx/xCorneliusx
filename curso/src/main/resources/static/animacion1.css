@@ -1,0 +1,20 @@
+.btn-neon{
+    position: relative;
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 70px;
+    border: 2px solid #F03A3A;
+    color: #fff;
+    letter-spacing: 3px;
+    text-decoration: none;
+    font-size: 15px;
+    overflow: hidden;
+    transition: 0.2s;
+}
+.btn-neon:hover{
+    background: #FC3D3D;
+    box-shadow: 0 0 10px #FC3D3D, 0 0 40px #FC3D3D, 0 0 80px #FC3D3D;
+    transition-delay: 0.2s;
+ }
+
+ }
